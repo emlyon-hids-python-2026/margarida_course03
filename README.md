@@ -13,7 +13,3 @@ This repository contains a tutorial project on **VSCode**
 ---
 
 
-
-print("Hello world")
-
-print("change)
