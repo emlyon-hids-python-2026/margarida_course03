@@ -1,0 +1,24 @@
+[project]
+name = "do-course03-tuto-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Margarida Belo", email = "maria.liragomes@edu.em-lyon.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+    "ruff>=0.17.2",
+    "scikit-learn>=1.9.1",
+]
+
+[project.scripts]
+do-course03-tuto-python = "do_course03_tuto_python:main"
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"
