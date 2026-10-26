@@ -1,4 +1,4 @@
-# Tutorial Project on Vscode (cousre 03)
+# Tutorial Project on Vscode (course 03)
 
 *Author: Cao Tri DO - emlyon Business School*
 
